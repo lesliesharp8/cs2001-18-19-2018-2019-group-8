@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FindMyCoachSettings</string>
+    <string name="settings">Settings</string>
+    <string name="notification">Notification</string>
+    <string name="turn_on_notification">Turn On Notification</string>
+    <string name="app_notification">App Notification</string>
+    <string name="email">Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_to_coach">Change To Coach</string>
+    <string name="language">Language</string>
+    <string name="more_settings">More Settings</string>
+</resources>
